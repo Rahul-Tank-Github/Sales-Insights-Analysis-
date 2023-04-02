@@ -26,11 +26,11 @@
 
 
 ## Screenshots
-### Sales Analysis Based on Revenue & Sales Quantity Trend By Date
+### Sales Analysis Based on Revenue & Sales Quantity Trend by Date
 ![Key Insight GIF](https://user-images.githubusercontent.com/71078584/229343215-465ffb10-88ad-45a5-b4fc-dc6978e67166.gif)
 
 
-### Sales Analysis Based on Revenue Contribution Trend By Date
+### Sales Analysis Based on Revenue Contribution Trend by Date
 ![Performance Insights GIF](https://user-images.githubusercontent.com/71078584/229343226-02b24b26-c93e-4fc7-b354-0dc465a07ad3.gif)
 
 
