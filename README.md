@@ -18,12 +18,11 @@
 
 ## Documentation
 
-[SALES INSIGHTS ANALYSIS DASHBOARD.pdf](https://github.com/Tank619/Sales-Insights-Analysis-/files/11131640/SALES.INSIGHTS.ANALYSIS.DASHBOARD.pdf)
+ - [SALES INSIGHTS ANALYSIS DASHBOARD.pdf](https://github.com/Tank619/Sales-Insights-Analysis-/files/11131640/SALES.INSIGHTS.ANALYSIS.DASHBOARD.pdf)
 
-[SALES INSIGHTS ANALYSIS PPT.pdf](https://github.com/Tank619/Sales-Insights-Analysis-/files/11131641/SALES.INSIGHTS.ANALYSIS.PPT.pdf)
+ - [SALES INSIGHTS ANALYSIS PPT.pdf](https://github.com/Tank619/Sales-Insights-Analysis-/files/11131641/SALES.INSIGHTS.ANALYSIS.PPT.pdf)
 
-
-
+ 
 
 
 ## Screenshots
